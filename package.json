@@ -1,0 +1,16 @@
+{
+  "name": "batman-light-theme",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Atom syntax theme port of Ethan Welborn's (@welbornio) BatmanLight Sublime theme",
+  "keywords": [
+    "batman",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/trinityXmontoya/atom-batman-light-theme.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
