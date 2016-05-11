@@ -1,5 +1,5 @@
 {
-  "name": "batman-light-theme",
+  "name": "batman-light",
   "theme": "syntax",
   "version": "0.0.1",
   "description": "Atom syntax theme port of Ethan Welborn's (@welbornio) BatmanLight Sublime theme",
